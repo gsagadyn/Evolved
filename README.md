@@ -22,7 +22,7 @@ pod 'Evolved'
 
 ## Author
 
-Grzegorz Sagadyn, gsagadyn@gmail.com
+Grzegorz Sagadyn, sagadyn@gmail.com
 
 ## License
 
