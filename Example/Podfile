@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Evolved_Example' do
+  pod 'Evolved', :path => '../'
+
+  target 'Evolved_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

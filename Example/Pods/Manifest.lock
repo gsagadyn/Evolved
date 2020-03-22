@@ -1,0 +1,27 @@
+PODS:
+  - Evolved (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - Evolved (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  Evolved:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Evolved: ebd255fedb09f6b70db986c2412460bfd6a0e491
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: d069558d24a4de96333e73f0c757f8d30b51c92f
+
+COCOAPODS: 1.9.1
