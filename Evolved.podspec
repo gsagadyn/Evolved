@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Evolved'
-  s.version          = '1.0.0-alpha.1'
+  s.version          = '1.0.0-alpha.2'
   s.summary          = 'WIP: Evolved Architecture.'
   s.homepage         = 'https://github.com/gsagadyn/Evolved'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }

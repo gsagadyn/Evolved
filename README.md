@@ -1,6 +1,6 @@
 # Evolved
 
-[![CI Status](https://img.shields.io/travis/Grzegorz Sagadyn/Evolved.svg?style=flat)](https://travis-ci.org/Grzegorz Sagadyn/Evolved)
+[![CI Status](https://img.shields.io/travis/gsagadyn/Evolved.svg?style=flat)](https://travis-ci.org/gsagadyn/Evolved)
 [![Version](https://img.shields.io/cocoapods/v/Evolved.svg?style=flat)](https://cocoapods.org/pods/Evolved)
 [![License](https://img.shields.io/cocoapods/l/Evolved.svg?style=flat)](https://cocoapods.org/pods/Evolved)
 [![Platform](https://img.shields.io/cocoapods/p/Evolved.svg?style=flat)](https://cocoapods.org/pods/Evolved)
@@ -22,7 +22,7 @@ pod 'Evolved'
 
 ## Author
 
-Grzegorz Sagadyn, grzegorz.sagadyn@speednet.pl
+Grzegorz Sagadyn, gsagadyn@gmail.com
 
 ## License
 
