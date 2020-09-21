@@ -1,0 +1,16 @@
+name: EvolvedExample
+options:
+  bundleIdPrefix: pl.codeforge
+attributes:
+  ORGANIZATIONNAME: "EvolvedExample"
+packages:
+  Evolved:
+    path: ..
+targets:
+  EvolvedExample:
+    type: application
+    platform: iOS
+    deploymentTarget: "13.0"
+    sources: [EvolvedExample]
+    dependencies:
+      - package: Evolved
